@@ -10,4 +10,4 @@
 - 선택된 셀 아래에 셀 추가 : 셀 선택 상태에서 b
 
 ### 구글 코랩(Colab)에서 R 사용하기
-[R코랩](colab.research.google.com/notebook#create=true&language=r)
+[R코랩](colab.research.google.com/notebook#create=true&language=r).
